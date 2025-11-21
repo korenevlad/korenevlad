@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 
-I am developing web applications. I'm writing the backend using ASP.NET Core. I worked in the field of document management. At the moment, I am actively exploring new technologies.
+I am a backend developer. I'm writing the backend using .NET(C#).
 
 <br/>  
 
