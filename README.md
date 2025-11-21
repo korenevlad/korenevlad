@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 
-I am a backend developer. I'm writing the backend using .NET(C#).
+I'm a backend developer. I'm writing the backend using .NET(C#).
 
 <br/>  
 
